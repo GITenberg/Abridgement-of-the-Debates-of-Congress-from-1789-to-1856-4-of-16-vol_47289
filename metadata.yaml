@@ -1,10 +1,14 @@
 _repo: Abridgement-of-the-Debates-of-Congress-from-1789-to-1856-4-of-16-vol_47289
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Rives, John C.
       gutenberg_agent_id: '44237'
       url: http://www.gutenberg.org/2009/agents/44237
+covers:
+- cover_type: archival
+  image_path: 47289-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47289#Abridgement-of-the-Debates-of-Congress-from-1789-to-1856-4-of-16-vol
 gutenberg_issued: '2014-11-04'
 gutenberg_type: Text
 identifiers:
